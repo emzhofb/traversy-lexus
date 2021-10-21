@@ -2,7 +2,7 @@ alembic==0.9.3.dev0
 appdirs==1.4.4
 apturl==0.5.2
 asn1crypto==0.24.0
-Babel==2.4.0
+Babel==2.9.1
 blinker==1.4
 Brlapi==0.6.6
 certifi==2020.6.20
