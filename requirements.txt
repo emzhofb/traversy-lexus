@@ -59,7 +59,7 @@ pexpect==4.2.1
 Pillow==5.1.0
 pipenv==2020.6.2
 powerline-status==2.6
-protobuf==3.0.0
+protobuf==3.18.3
 psutil==5.4.2
 psycopg2==2.8.5
 pyasn1==0.4.2
